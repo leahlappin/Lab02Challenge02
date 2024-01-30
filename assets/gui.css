@@ -1,0 +1,54 @@
+body{
+    background-color: #181027;
+    color:white;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.landingimg{
+    width: 70%;
+}
+
+.hlanding{
+   padding-top: 15%;
+   padding-left: 5%;
+}
+.toplogo {
+   padding-left: 20px;
+   width: 100%;
+}
+
+.topnav {
+    background-color:#181027 !important;
+    
+}
+.button_large_round_f-white_mybutton{
+    background-color: orangered;
+    color :white;
+    border-radius: 12px;
+    opacity: 1;
+  transition: 0.3s;
+}
+
+.button_large_round_f-white_mybutton2{
+    display:flex;
+    justify-content: center;
+    border-color: orangered;
+    color:white ;
+    width: 500px;
+
+}
+
+.myfooter {
+    background-color: rgb(65, 17, 110);
+    padding-bottom: 50px;
+}
+
+
+    
+    
+
+
+
+
+
+
